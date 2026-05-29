@@ -1,16 +1,20 @@
-## Hi there 👋
+Hola 👋 Soy Antonio
 
-<!--
-**antonio1234gfd/antonio1234gfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Software
+💻 Desarrollador Web con Yii2 y React Native
+📚 Interesado en Backend, APIs y Bases de Datos
 
-Here are some ideas to get you started:
+Tecnologías
+PHP
+Yii2
+MySQL
+React Native
+JavaScript
+Git & GitHub
+Proyectos
+Sistema de monitoreo con Yii2
+Aplicaciones móviles con APIs
+Proyectos académicos y de titulación
+Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 tu_correo@example.com
