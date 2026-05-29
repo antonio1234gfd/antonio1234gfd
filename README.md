@@ -17,4 +17,4 @@ Aplicaciones móviles con APIs
 Proyectos académicos y de titulación
 Contacto
 
-📧 tu_correo@example.com
+📧 l22070068@valladolid.tecnm.mx
